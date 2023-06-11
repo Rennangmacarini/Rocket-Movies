@@ -59,7 +59,7 @@ Alguns detalhes adicionados ao desafio:
 Para instalar a aplicação em sua máquina localmente, clone o projeto, acesse a pasta, instale as dependências e inicie o servidor.
 
 ```
-$ git clone https://github.com/Rennangmacarini/rocket-movies-api
+$ git clone https://github.com/Rennangmacarini/Rocket-Movies.git
 $ cd rocket-movies-api
 $ npm install
 $ npm run dev
