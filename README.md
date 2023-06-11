@@ -24,8 +24,6 @@ Aplicação em Node.js onde o usuário cadastra um filme, preenche com algumas i
 
 Abaixo, temos o diagrama utilizado como base para a criação do banco de dados:
 
-!["Estrutura do banco de dados"](./.github/database-structure.png)
-
 <h2 id="details">📋 Detalhamento</h2>
 
 Explicando cada tabela e seus campos:
