@@ -71,4 +71,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com :heart: by Rennan Macarini :wave: [Me acompanhe na rede sociais!](www.linkedin.com/in/rennan-macarini)
+Feito com :heart: by Rennan Macarini.
